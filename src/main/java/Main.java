@@ -3,6 +3,7 @@ import model.Food;
 import model.Meat;
 import service.ShoppingCart;
 
+// Импорт констант
 import static model.constants.Colour.GREEN_COLOUR;
 import static model.constants.Colour.RED_COLOUR;
 
